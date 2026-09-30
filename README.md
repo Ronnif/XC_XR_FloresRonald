@@ -26,9 +26,3 @@ Proyecto de realidad extendida desarrollado en Unity con XR Interaction Toolkit.
 - OpenXR
 - Input System
 
-## Capturas de Pantalla
-![Vista general del escenario](captura1.png)
-![Configuración XR en el Inspector](captura2.png)
-![Interacción funcionando](captura3.png)
-
-## Video Demost
